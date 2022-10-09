@@ -6,4 +6,8 @@ commit6
 commit7
 commit8
 commit9
+<<<<<<< HEAD
 commit10
+=======
+commit11
+>>>>>>> 6e1dac0 (11th commit)
